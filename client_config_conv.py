@@ -1,4 +1,3 @@
-from http.cookiejar import FileCookieJar
 import sys,os.path
 import platform
 if platform.system()=='Windows':
